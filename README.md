@@ -16,8 +16,8 @@ Prerequisites
 Installation
 Clone the repository:
 ```
-git clone https://github.com/yourusername/chat-application.git
-cd chat-application
+git clone https://github.com/yourusername/ssh-chat-veyu0.git
+cd ssh-chat-veyu0
 ```
 Run the server:
 ```
